@@ -178,6 +178,7 @@
   .row {
     display: flex;
   }
+  
   ul.row {
     margin: -1rem;
     padding: 0;
